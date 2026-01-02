@@ -1,0 +1,4 @@
+AAPL - Quantity: 2, Value: 360
+TSLA - Quantity: 1, Value: 250
+
+Total Investment Value: 610

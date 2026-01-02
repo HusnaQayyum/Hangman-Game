@@ -1,0 +1,29 @@
+Created a dictionary named stocks to store stock symbols along with their prices.
+
+Initialized a variable total_investment with 0 to keep track of the total amount invested.
+
+Opened a file named portfolio.txt in write mode so that I can save the stock details and total investment.
+
+Displayed the available stock names so the user knows which stocks can be selected.
+
+Used a while True loop to allow entering multiple stocks continuously.
+
+Asked the user to enter a stock name.
+
+If the user enters done, stop taking input and exit the loop.
+
+Checked whether the entered stock exists in the dictionary.
+
+If it exists, asked for the quantity.
+
+Calculated the investment by multiplying stock price and quantity.
+
+Added this value to total_investment.
+
+Saved the stock name, quantity, and price into the file.
+
+If the stock name does not exist, showed a message saying “Stock not available”.
+
+After exiting the loop, I wrote the total investment value into the file.
+
+Finally, closed the file and displayed the total investment on the screen
